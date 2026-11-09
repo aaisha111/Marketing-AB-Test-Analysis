@@ -27,7 +27,7 @@ To ensure the difference in conversion rates wasn't due to random chance, the 2x
 
 ### 3. Visualization & Insights (Power BI)
 An interactive dashboard was built to present the findings.
-![Dashboard Screenshot](dashboard/AB_testing_dashboard.png)
+![Dashboard Screenshot](dashboard/AB_testing_dashboard.PNG)
 ## 💡 Key Findings & Business Recommendations
 
 *   **Effect Size & Attribution (The 70% Rule):** While the p-value is highly significant (p < 0.001), large sample sizes can artificially inflate significance. The practical business metric is the absolute lift of 0.77 percentage points, resulting in roughly **4,300 incremental conversions**. This means approximately 70% of the ad group's 14,423 conversions (about 10,077 users) would have converted organically anyway based on the control group's baseline. The campaign can only claim attribution for the remaining 30%.
